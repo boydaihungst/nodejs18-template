@@ -1,3 +1,5 @@
-# mangadex-api
+# Tempalte Nodejs 18 
 
-Mangadex api version 5.9.0
+  Original: [https://github.com/bitjson/typescript-starter](https://github.com/bitjson/typescript-starter)
+
+
